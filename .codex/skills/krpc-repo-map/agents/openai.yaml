@@ -1,0 +1,4 @@
+interface:
+  display_name: "kRPC Repo Map"
+  short_description: "Navigate kRPC structure and entrypoints"
+  default_prompt: "Use $krpc-repo-map to outline the kRPC repository and point me to the right subsystem for a task."
